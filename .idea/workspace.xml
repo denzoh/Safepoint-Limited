@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="967df058-f7f5-4b5e-84c7-11ffe87da161" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/safepoint.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/safepoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0196.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0197.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0198.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0199.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0200.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0201.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0202.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0203.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0204.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0205.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0206.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0207.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0208.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0209.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0210.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0211.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0212.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0213.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0214.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,13 +44,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/safepoint/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#633#665#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="761">
+              <caret line="719" column="16" selection-start-line="719" selection-start-column="16" selection-end-line="719" selection-end-column="16" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#20778#20785#1#HTML" expanded="true" />
+                <element signature="e#21571#21578#1#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,6 +79,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -53,6 +93,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/safepoint/settings.py" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
       </list>
     </option>
   </component>
@@ -67,9 +108,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="927" />
-    <option name="height" value="1055" />
+    <option name="y" value="27" />
+    <option name="width" value="917" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -87,12 +128,23 @@
             <path>
               <item name="safepoint" type="b2602c69:ProjectViewProjectNode" />
               <item name="safepoint" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="safepoint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="safepoint" type="462c0819:PsiDirectoryNode" />
               <item name="norm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="safepoint" type="b2602c69:ProjectViewProjectNode" />
               <item name="safepoint" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="safepoint" type="b2602c69:ProjectViewProjectNode" />
               <item name="safepoint" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -102,11 +154,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../simple" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../leave-management-backend" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,6 +217,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -231,6 +290,20 @@
           <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#633#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="719" column="16" selection-start-line="719" selection-start-column="16" selection-end-line="719" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#20778#20785#1#HTML" expanded="true" />
+            <element signature="e#21571#21578#1#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
