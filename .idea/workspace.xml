@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="967df058-f7f5-4b5e-84c7-11ffe87da161" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0196.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0197.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0198.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0199.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0200.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0201.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0202.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0203.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0204.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0205.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0206.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0207.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0208.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0209.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0210.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0211.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0212.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0213.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/images/DSC_0214.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,8 +40,8 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="761">
-              <caret line="719" column="16" selection-start-line="719" selection-start-column="16" selection-end-line="719" selection-end-column="16" />
+            <state relative-caret-position="195">
+              <caret line="112" column="21" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -225,8 +206,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329718" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329718" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25235197" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -296,8 +277,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="761">
-          <caret line="719" column="16" selection-start-line="719" selection-start-column="16" selection-end-line="719" selection-end-column="16" />
+        <state relative-caret-position="195">
+          <caret line="112" column="21" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
